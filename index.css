@@ -1,0 +1,369 @@
+li,a{
+    font-weight: 400;
+    list-style: none;
+}
+h3{
+    font-size: 60px;
+    color: #333333;
+    text-align: center;
+    font-weight: bold;
+}
+.header{
+    padding: 20px 0 0;
+    border-bottom: 2px solid rgb(235,235,235);
+    background-color: white;
+}
+#top-page{
+    padding: 10px 0px 20px;
+    margin: 0 20px;
+    color: #008489;
+    border-bottom: 2px solid #008489;
+}
+#icon-a{
+    padding-top: 5px;
+}
+.h-menu{
+    padding-left: 0;
+    display: flex;
+    margin-bottom: 0;
+}
+.h-menu i{
+    font-size: 35px;
+    color: #008489;
+}
+.h-menu li{
+    list-style: none;
+    font-size: 14px;
+}
+.h-menu a{
+    display: block;
+    padding: 10px 0px 20px;
+    margin: 0 20px;
+    color: #484848;
+}
+.h-badge{
+    padding: 10px 15px;
+    position: absolute;
+    left: 30%;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.main-img{
+    background-image: url(main.jpg);
+    background-size: cover;
+    padding: 50px 0 100px;
+    margin-top: 80px;
+}
+.form-box{
+    width: 460px;
+    height: 440px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 30px;
+}
+.form-box h1{
+    font-weight: bold;
+    color: #333333;
+}
+.form-box p{
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.form-box input{
+    width: 100%;
+    height: 50px;
+    border: rgb(235,235,235) 1px solid;
+    color: rgb(72,72,72);
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#style{
+    width: 55%;
+    margin-top:10px;
+    border: rgb(235,235,235) 1px solid;
+    height: 50px;
+    color: rgb(72,72,72);
+    border-radius: 5px;
+    padding-left: 10px;
+}
+#p-select{
+    width: 40%;
+    margin-top:10px;
+    border: rgb(235,235,235) 1px solid;
+    height: 50px;
+    color: rgb(72,72,72);
+    border-radius: 5px;
+    margin-left: 15px;
+    padding-left: 10px;
+}
+.img-badge{
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    padding-top:15px ;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.main-container{
+    margin: 0 150px;
+}
+.m-box{
+    margin-top: 70px;
+}
+.m-box h2{
+    font-size: 24px;
+    color: #484848;
+    font-weight: bold;
+}
+.m-box p{
+    font-size: 16px;
+    padding-top: 15px;
+    line-height: 1.5em;
+}
+.left,.right{
+    padding-right: 130px;
+}
+.line{
+    width: 60px;
+    margin: 0 auto 30px;
+    padding-top:100px ;
+    border-bottom: 2px solid #484848;
+}
+.fa-check-circle{
+    font-size: 50px;
+}
+.equol-d-3{
+    padding-right: 70px;
+}
+.equol-d-3 a,.left a{
+    color: #008489;
+}
+.icon{
+    margin-bottom: 0;
+}
+.left i{
+    color: #fdb32b;
+    font-size: 50px;
+}
+.size32px{
+    font-size: 32px !important;
+}
+.img-3{
+    width: 100%;
+}
+.right2{
+    padding: 0;
+}
+
+.mini{
+    font-size: 15px;
+    color: #767676;
+}
+.badge-light{
+    font-size: 16px;
+    color: #484848 !important;
+    border: 2px solid #484848;
+    padding: 15px 20px;
+}
+.m-box-margin{
+    margin-top: 150px;
+}
+.fa-check{
+    color: #008489;
+    margin-right: 15px;
+}
+.check-list{
+    line-height: 3em;
+}
+#second-img{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.equol-d2-3{
+    text-align: center;
+}
+.equol-d2-3 h2{
+    font-size: 60px;
+    font-weight: 400;
+}
+.right a{
+    color: #008489;
+}
+.form a{
+    display: block;
+    border-bottom: 1px solid rgb(235,235,235);
+    color: #008489;
+    padding: 25px 0;
+}
+.left2,.right2{
+    padding-right: 0;
+}
+.img-head{
+    font-size: 16px;
+    color: #484848;
+}
+.green{
+    font-size: 14px;
+    color: #008489;
+}
+.bottom-img p{
+    padding: 5px 0;
+    margin-bottom: 0;
+}
+.text{
+    margin-top: 50px;
+    font-size: 24px;
+    color: #484848;
+    font-weight: 600;
+}
+#bottom-img{
+    margin-top: 50px;
+    background-image: url(/Users/takashimahideto/Desktop/課題５/sample5.jpg);
+}
+.img-p{
+    font-size: 60px;
+    padding: 100px 50% 0px 100px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.img-a{
+    border: none;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.footer{
+    background-color: rgb(247,247,247);
+    border-top: 1px solid rgb(221,221,221);
+    margin-top: 50px;
+}
+.footer-box{
+    padding: 50px 70px 0;
+    margin: 0;
+}
+.no-padding{
+    padding: 0;
+}
+.footer p{
+    font-size: 12px;
+    color: #222222;
+    font-weight: bold;
+}
+.footer-link{
+    display: block;
+    font-size: 14px;
+    color: #484848;
+    line-height: 2.5em;
+}
+.footer-bottom{
+    border-top: 1px solid rgb(221,221,221);
+    margin: 30px 50px 0;
+    padding-top: 30px;
+}
+.footer-bottom a{
+    font-size: 14px;
+    color: #484848;
+}
+.footer-right{
+    padding-left: 5%;
+}
+.footer p{
+    font-size: 14px ;
+    color: #484848 ;
+    font-weight: 400;
+}
+.footer-a-block{
+    display: block;
+}
+.dot{
+    margin: 0 10px;
+}
+.footer-icon-a{
+    display: inline;
+}
+.fa-facebook-f,.fa-twitter,.fa-instagram{
+    margin-right: 5px;
+    font-size: 20px;
+}
+.footer-bottom-a{
+    margin-right: 20px;
+}
+.footer-bottom-a2{
+    margin-left: 20px;
+}
+/* レスポンシブ用 */
+.m-img-h1-res{
+    color: black;
+    font-weight: bold;
+    color: #ffffff;
+    display: none;
+}
+.top-form-res{
+    display: none;
+}
+.top-form-res p{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.select-left-res{
+    width: 60%;
+    height: 50px;
+    border: 1px solid rgb(235,235,235);
+    border-radius: 5px;
+    color: #484848;
+}
+.select-right-res{
+    width: 37%;
+    height: 50px;
+    margin-left: 2%;
+    border: 1px solid rgb(235,235,235);
+    border-radius: 5px;
+    color: #484848;
+}
+.form-adress-res{
+    width: 100%;
+    border-radius: 5px;
+    color: #484848;
+    border: 1px solid rgb(235,235,235);
+    height: 50px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.responsive-line{
+    display: none;
+}
+.menu-bar{
+    display: none;
+    height: 50px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+    font-size: 30px;
+    margin-bottom: 0;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+.menu-bar i{
+    color: white;
+
+}
+#menu-buttom{
+    display: none;
+}
+.h-menu2{
+    display: none;
+    background-color: white;
+    width: 100%;
+    padding-left: 0;
+}
+#menu-buttom:checked ~ .h-menu2{
+    display: block;
+    z-index: 100;
+}
+#menu-buttom:checked ~ .menu-bar{
+    background-color: lightgray;
+    border-bottom: 1px solid #fff;
+}
